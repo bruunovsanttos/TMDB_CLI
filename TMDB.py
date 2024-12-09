@@ -12,7 +12,7 @@ def url_requerida:
     #colocar aqui o endpoint apra requisição com o requeriments
 
 def salva_json:
-    
+
     url = url_requerida()
 
     try:
@@ -30,3 +30,10 @@ def salva_json:
             print(f"Erro ao coletar as informações do site")
     except requests.exceptions.RequestsException as erro:
         print(f"Erro ao conectar com a Api {erro}")
+
+
+def exibir():
+    pass
+
+def main():
+    pass
