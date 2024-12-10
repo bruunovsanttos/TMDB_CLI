@@ -7,16 +7,18 @@ diretorio =
 nome_arquivo = "filmes.json"
 caminho_completo = os.path.join(diretorio, nome_arquivo)
 
-def url_requerida(link):
-    chave = "15cef3dcc7e2b5214f1b868965d0195c"
-    link = f"https://api.themoviedb.org/3/movie?api_key{chave}&language=pt-BR"
-    return
 
-    
 
-def doc_json():
+chave = "15cef3dcc7e2b5214f1b868965d0195c"
+link = f"https://api.themoviedb.org/3/movie"
 
-    url = url_requerida(link)
+def url_requerida(tipo):
+    return f"{link}{tipo}?api_key={chave}&language=pt-BR"
+
+
+
+def doc_json(tipo):
+    url = url_requerida(tipo)
 
     try:
         resposta = requests.get(url)
@@ -27,7 +29,7 @@ def doc_json():
 
 
         elif resposta.status_code == 404:
-            pass
+            print("Desculpe, a pagina não foi encontrada")
             #colocar not found de forma amigavel
         else:
             print(f"Erro ao coletar as informações do site")
