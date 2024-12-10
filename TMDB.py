@@ -1,14 +1,18 @@
 import json
 import requests
+import os
 import argparse
 
+diretorio =
+nome_arquivo = "filmes.json"
+caminho_completo = os.path.join(diretorio, nome_arquivo)
 
 def url_requerida(link):
     chave = "15cef3dcc7e2b5214f1b868965d0195c"
     link = f"https://api.themoviedb.org/3/movie?api_key{chave}&language=pt-BR"
     return
 
-
+    
 
 def doc_json():
 
