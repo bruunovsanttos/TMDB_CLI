@@ -52,4 +52,14 @@ def exibir():
 
 
 def main():
-    pass
+    parser = argparse.ArgumentParser(description="Filmes TMDB")
+    parser.add_argument('tipo', choices=["playing", "popular", "top", "upcoming"], required= False, help= "Tipo de filmes a serem exibidos(playing(passando), popular(mais populares), top(melhores avaliações), upcoming(vem ai)")
+
+    args = parser.parse_args()
+    tipo = args.tipo
+    doc_json(tipo)
+    exibir()
+
+
+if __name__ == "__main__":
+    main()
