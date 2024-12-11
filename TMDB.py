@@ -3,7 +3,7 @@ import requests
 import os
 import argparse
 
-diretorio =
+diretorio = "C:/Users/bruvieira/Desktop/Nova_pasta/TMDB_CLI/TMDB_CLI"
 nome_arquivo = "filmes.json"
 caminho_completo = os.path.join(diretorio, nome_arquivo)
 
@@ -14,7 +14,10 @@ link = f"https://api.themoviedb.org/3/movie"
 
 def url_requerida(tipo):
     return f"{link}{tipo}?api_key={chave}&language=pt-BR"
-
+def salva_json(tipo):
+    with open (caminho_completo, "w", encoding="utf-8") as arquivo:
+        json.dump(arquivo, ensure_ascii=False, indent=4)
+    print(f"O arquivo Json foi salvo ")
 
 
 def doc_json(tipo):
@@ -24,13 +27,13 @@ def doc_json(tipo):
         resposta = requests.get(url)
 
         if resposta.status_code == 200:
-            pass
+
 
 
 
         elif resposta.status_code == 404:
             print("Desculpe, a pagina não foi encontrada")
-            #colocar not found de forma amigavel
+
         else:
             print(f"Erro ao coletar as informações do site")
     except requests.exceptions.RequestsException as erro:
