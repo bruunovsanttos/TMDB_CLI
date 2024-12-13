@@ -1,397 +1,415 @@
 {
+    "dates": {
+        "maximum": "2024-12-18",
+        "minimum": "2024-11-06"
+    },
     "page": 1,
     "results": [
         {
             "adult": false,
-            "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+            "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
             "genre_ids": [
-                18,
-                80
+                28,
+                878,
+                12,
+                53
             ],
-            "id": 278,
+            "id": 912649,
             "original_language": "en",
-            "original_title": "The Shawshank Redemption",
-            "overview": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
-            "popularity": 201.1,
-            "poster_path": "/xSnM4ahmz692msbMTBsfBWHvR3M.jpg",
-            "release_date": "1994-09-23",
-            "title": "Um Sonho de Liberdade",
+            "original_title": "Venom: The Last Dance",
+            "overview": "Eddie e Venom estão fugindo. Perseguidos pelos dois mundos, a dupla é forçada a tomar uma decisão devastadora que vai fechar as cortinas da última rodada de Venom e Eddie.",
+            "popularity": 12365.25,
+            "poster_path": "/jQ92em8SMpu0ufGUtZNVlvxO4Qr.jpg",
+            "release_date": "2024-10-22",
+            "title": "Venom: A Última Rodada",
             "video": false,
-            "vote_average": 8.7,
-            "vote_count": 27263
+            "vote_average": 6.737,
+            "vote_count": 1373
         },
         {
             "adult": false,
-            "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-            "genre_ids": [
-                18,
-                80
-            ],
-            "id": 238,
-            "original_language": "en",
-            "original_title": "The Godfather",
-            "overview": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
-            "popularity": 193.247,
-            "poster_path": "/uP46DujkD3nwcisOjz9a0Xw0Knj.jpg",
-            "release_date": "1972-03-14",
-            "title": "O Poderoso Chefão",
-            "video": false,
-            "vote_average": 8.7,
-            "vote_count": 20703
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
-            "genre_ids": [
-                18,
-                80
-            ],
-            "id": 240,
-            "original_language": "en",
-            "original_title": "The Godfather Part II",
-            "overview": "Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.",
-            "popularity": 99.047,
-            "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
-            "release_date": "1974-12-20",
-            "title": "O Poderoso Chefão: Parte II",
-            "video": false,
-            "vote_average": 8.6,
-            "vote_count": 12484
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-            "genre_ids": [
-                18,
-                36,
-                10752
-            ],
-            "id": 424,
-            "original_language": "en",
-            "original_title": "Schindler's List",
-            "overview": "O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão.",
-            "popularity": 73.306,
-            "poster_path": "/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg",
-            "release_date": "1993-12-15",
-            "title": "A Lista de Schindler",
-            "video": false,
-            "vote_average": 8.566,
-            "vote_count": 15903
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
-            "genre_ids": [
-                18
-            ],
-            "id": 389,
-            "original_language": "en",
-            "original_title": "12 Angry Men",
-            "overview": "Um jovem porto-riquenho é acusado do brutal crime de ter matado o próprio pai. Quando ele vai a julgamento, doze jurados se reúnem para decidir a sentença, levando em conta que o réu deve ser considerado inocente até que se prove o contrário. Onze dos jurados têm plena certeza de que ele é culpado, e votam pela condenação, mas um jurado acha que é melhor investigar mais para que a sentença seja correta. Para isso ele terá que enfrentar diferentes interpretações dos fatos, e a má vontade dos outros jurados, que só querem ir logo para suas casas.",
-            "popularity": 59.411,
-            "poster_path": "/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
-            "release_date": "1957-04-10",
-            "title": "12 Homens e uma Sentença",
-            "video": false,
-            "vote_average": 8.547,
-            "vote_count": 8700
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+            "backdrop_path": "/tElnmtQ6yz1PjN1kePNl8yMSb59.jpg",
             "genre_ids": [
                 16,
+                12,
                 10751,
-                14
+                35
             ],
-            "id": 129,
-            "original_language": "ja",
-            "original_title": "千と千尋の神隠し",
-            "overview": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los",
-            "popularity": 103.799,
-            "poster_path": "/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
-            "release_date": "2001-07-20",
-            "title": "A Viagem de Chihiro",
+            "id": 1241982,
+            "original_language": "en",
+            "original_title": "Moana 2",
+            "overview": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
+            "popularity": 3704.062,
+            "poster_path": "/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
+            "release_date": "2024-11-21",
+            "title": "Moana 2",
             "video": false,
-            "vote_average": 8.5,
-            "vote_count": 16568
+            "vote_average": 6.885,
+            "vote_count": 465
         },
         {
             "adult": false,
-            "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+            "backdrop_path": "/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
             "genre_ids": [
-                35,
-                18,
-                10749
+                28,
+                878,
+                53
             ],
-            "id": 19404,
-            "original_language": "hi",
-            "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
-            "overview": "Raj e Simran são dois jovens indianos vivendo em Londres que, acidentalmente, se conhecem durante uma viagem pela Europa. Eles se apaixonam, mas Simran está prometida a um indiano. Raj não desanima e segue seu amor até a Índia, onde os dois tentam convencer a todos que precisam ficar juntos.",
-            "popularity": 50.682,
-            "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
-            "release_date": "1995-10-20",
-            "title": "Dilwale vai levar a noiva",
+            "id": 1035048,
+            "original_language": "en",
+            "original_title": "Elevation",
+            "overview": "Vivendo nas montanhas após o apocalipse, um pai solteiro e duas mulheres se aventuram fora de suas casas e enfrentam criaturas monstruosas para salvar a vida de uma criança.",
+            "popularity": 2623.947,
+            "poster_path": "/8W6pH0sLPKSq8gM7qEnQiRSzWSN.jpg",
+            "release_date": "2024-11-07",
+            "title": "A Linha da Extinção",
             "video": false,
-            "vote_average": 8.5,
-            "vote_count": 4439
+            "vote_average": 6.5,
+            "vote_count": 147
         },
         {
             "adult": false,
-            "backdrop_path": "/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+            "backdrop_path": "/nOoGIymGBNtA7AEN0B6nshSEQ1p.jpg",
             "genre_ids": [
-                16,
-                14,
-                12
-            ],
-            "id": 823219,
-            "original_language": "lv",
-            "original_title": "Straume",
-            "overview": "O mundo parece estar chegando ao fim, repleto de vestígios da presença humana. Cat é um animal solitário, mas como seu lar é devastado por uma grande enchente, ele encontra refúgio em um barco povoado por várias espécies, e terá que se unir a elas apesar de suas diferenças. No barco solitário navegando por paisagens místicas e transbordantes, eles navegam pelos desafios e perigos de se adaptar a este novo mundo.",
-            "popularity": 303.326,
-            "poster_path": "/psANjJ8SFm8BMLt7DS1asgKQvkb.jpg",
-            "release_date": "2024-08-29",
-            "title": "Flow",
-            "video": false,
-            "vote_average": 8.5,
-            "vote_count": 383
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oOv2oUXcAaNXakRqUPxYq5lJURz.jpg",
-            "genre_ids": [
-                18,
                 28,
                 80,
                 53
             ],
-            "id": 155,
+            "id": 974453,
             "original_language": "en",
-            "original_title": "The Dark Knight",
-            "overview": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
-            "popularity": 138.382,
-            "poster_path": "/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
-            "release_date": "2008-07-16",
-            "title": "Batman: O Cavaleiro das Trevas",
+            "original_title": "Absolution",
+            "overview": "Um velho gângster ex-boxeador que trabalha para um chefe do crime de Boston recebe um diagnóstico perturbador. Apesar de uma memória vacilante, ele tenta corrigir os pecados do seu passado e reconectar-se com seus filhos distantes. Ele está determinado a deixar um legado positivo para seu neto, mas o submundo do crime não o deixa e ele vai tomar o controle.",
+            "popularity": 1754.884,
+            "poster_path": "/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg",
+            "release_date": "2024-10-31",
+            "title": "Absolution",
             "video": false,
-            "vote_average": 8.5,
-            "vote_count": 32975
+            "vote_average": 6.1,
+            "vote_count": 128
         },
         {
             "adult": false,
-            "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
-            "genre_ids": [
-                35,
-                53,
-                18
-            ],
-            "id": 496243,
-            "original_language": "ko",
-            "original_title": "기생충",
-            "overview": "Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.",
-            "popularity": 99.231,
-            "poster_path": "/bik2BZjmVjeE6LOZqtuTjb4jJPQ.jpg",
-            "release_date": "2019-05-30",
-            "title": "Parasita",
-            "video": false,
-            "vote_average": 8.505,
-            "vote_count": 18352
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
-            "genre_ids": [
-                14,
-                18,
-                80
-            ],
-            "id": 497,
-            "original_language": "en",
-            "original_title": "The Green Mile",
-            "overview": "Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenciária Cold Mountain. Lá, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de espírito e humanidade aos seus guardas e colegas de cela.",
-            "popularity": 77.309,
-            "poster_path": "/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
-            "release_date": "1999-12-10",
-            "title": "À Espera de um Milagre",
-            "video": false,
-            "vote_average": 8.506,
-            "vote_count": 17508
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
-            "genre_ids": [
-                53,
-                80
-            ],
-            "id": 680,
-            "original_language": "en",
-            "original_title": "Pulp Fiction",
-            "overview": "Vincent Vega e Jules Winnfield são dois assassinos profissionais que trabalham fazendo cobranças para Marsellus Wallace, um poderosos gângster. Vega é forçado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge se mete em apuros por ganhar uma luta que deveria perder.",
-            "popularity": 139.64,
-            "poster_path": "/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
-            "release_date": "1994-09-10",
-            "title": "Pulp Fiction: Tempo de Violência",
-            "video": false,
-            "vote_average": 8.5,
-            "vote_count": 27976
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
+            "backdrop_path": "/m2hs6YPVrzjvRC21SE9BeXtgqFW.jpg",
             "genre_ids": [
                 16,
-                10749,
-                18
-            ],
-            "id": 372058,
-            "original_language": "ja",
-            "original_title": "君の名は。",
-            "overview": "Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
-            "popularity": 97.289,
-            "poster_path": "/bMOKAjTU1TNUjRSF7icldbii06u.jpg",
-            "release_date": "2016-08-26",
-            "title": "Your Name",
-            "video": false,
-            "vote_average": 8.485,
-            "vote_count": 11410
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5JrZAtyk3LwiiAWLW0kwz41XZJC.jpg",
-            "genre_ids": [
-                12,
-                14,
+                9648,
+                878,
                 28
             ],
-            "id": 122,
+            "id": 1299652,
             "original_language": "en",
-            "original_title": "The Lord of the Rings: The Return of the King",
-            "overview": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
-            "popularity": 133.78,
-            "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
-            "release_date": "2003-12-17",
-            "title": "O Senhor dos Anéis: O Retorno do Rei",
+            "original_title": "Watchmen: Chapter II",
+            "overview": "Suspeitos dos eventos que enredam seus antigos colegas, Nite Owl e Silk Spectre são estimulados a sair da aposentadoria para investigar. Enquanto eles lutam com ética pessoal, demônios internos e uma sociedade voltada contra eles, eles correm contra o relógio para descobrir uma conspiração profunda que pode desencadear uma guerra nuclear global.",
+            "popularity": 1484.544,
+            "poster_path": "/biFwlSoLFv7hO1yg6IrieoYLpYr.jpg",
+            "release_date": "2024-11-25",
+            "title": "Watchmen: Capítulo 2",
             "video": false,
-            "vote_average": 8.5,
-            "vote_count": 24286
+            "vote_average": 7.6,
+            "vote_count": 46
         },
         {
             "adult": false,
-            "backdrop_path": "/ghgfzbEV7kbpbi1O8eIILKVXEA8.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
-            "id": 13,
-            "original_language": "en",
-            "original_title": "Forrest Gump",
-            "overview": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
-            "popularity": 87.567,
-            "poster_path": "/bfeIonJ9AGC0kkNK0d69oIyqZMs.jpg",
-            "release_date": "1994-06-23",
-            "title": "Forrest Gump: O Contador de Histórias",
-            "video": false,
-            "vote_average": 8.47,
-            "vote_count": 27499
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
-            "genre_ids": [
-                37
-            ],
-            "id": 429,
-            "original_language": "it",
-            "original_title": "Il buono, il brutto, il cattivo",
-            "overview": "Durante o auge da Guerra Civil, um misterioso pistoleiro vaga pela fronteira do oeste. Ele não possui um lar, lealdade ou companhia... Até que encontra dois estrangeiros, que são tão brutos e desapegados quanto ele. Unidos pelo destino, os três homens juntam suas forças para tentar encontrar uma fortuna em ouro roubado. Mas trabalho em equipe não é uma coisa natural para voluntariosos pistoleiros, e eles logo descobrem que seu maior desafio é concentrar-se em sua perigosa missão — e em manterem-se vivos — atravessando um país arrasado pela guerra.",
-            "popularity": 63.388,
-            "poster_path": "/bHwIzQrbJKiFwArLLngS1Ej6xPc.jpg",
-            "release_date": "1966-12-22",
-            "title": "Três Homens em Conflito",
-            "video": false,
-            "vote_average": 8.5,
-            "vote_count": 8644
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
+            "backdrop_path": "/evFChfYeD2LqobEJf8iQsrYcGTw.jpg",
             "genre_ids": [
                 28,
-                18
+                80,
+                53
             ],
-            "id": 346,
-            "original_language": "ja",
-            "original_title": "七人の侍",
-            "overview": "No século XVI, durante a era Sengoku, quando os poderosos samurais de outrora estavam com os dias contados, pois eram agora desprezados pelos seus aristocráticos senhores. Kambei (Takashi Shimura), um guerreiro veterano sem dinheiro, chega em uma aldeia indefesa que foi saqueada repetidamente por ladrões assassinos. Os moradores do vilarejo pedem sua ajuda, fazendo com que Kambei recrute seis outros ronins (samurais sem mestre), que concordam em ensinar os habitantes como devem se defender em troca de comida. Os aldeões dão boas-vindas aos guerreiros e algumas relações começam. Katsushiro (Ko Kimura) se apaixona por uma das mulheres locais, embora os outros ronins mantenham distância dos camponeses. O último dos guerreiros que chega é Kikuchio (Toshiro Mifune), que finge estar qualificado mas na realidade é o filho de um camponês que almeja aceitação.",
-            "popularity": 45.156,
-            "poster_path": "/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
-            "release_date": "1954-04-26",
-            "title": "Os Sete Samurais",
+            "id": 1182387,
+            "original_language": "en",
+            "original_title": "Armor",
+            "overview": "Um pai e um filho que trabalham como guardas de segurança de uma empresa de caminhões blindados são atacados por uma equipe de ladrões profissionais durante um transporte de valores. Eles ficam presos numa ponte isolada e precisam bolar um plano para escapar e garantir sua sobrevivência.",
+            "popularity": 1666.034,
+            "poster_path": "/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",
+            "release_date": "2024-10-30",
+            "title": "Armor",
             "video": false,
-            "vote_average": 8.5,
-            "vote_count": 3691
+            "vote_average": 5.6,
+            "vote_count": 64
         },
         {
             "adult": false,
-            "backdrop_path": "/gwj4R8Uy1GwejKqfofREKI9Jh7L.jpg",
+            "backdrop_path": "/cBTwQKMd7Vn6rGTGBtoFLIfj7uM.jpg",
             "genre_ids": [
                 16,
-                18,
-                10752
+                12,
+                28,
+                14
             ],
-            "id": 12477,
-            "original_language": "ja",
-            "original_title": "火垂るの墓",
-            "overview": "O filme relata a história de dois irmãos, Seita e Setsuko, no período da Segunda Guerra Mundial no Japão. O pai deles é convocado para defender o país na guerra, pois faz parte da marinha japonesa e a mãe falece em um bombardeio de aviões norte-americanos. A partir daí, o filme mostra a luta pela sobrevivência das duas crianças em meio à pobreza e miséria que assola o país. Fome, doenças e a falta de generosidade e sensibilidade dos adultos faz deste percurso um dos filmes mais bonitos e comoventes sobre o trágico quadro gerado pela guerra.",
-            "popularity": 0.043,
-            "poster_path": "/kHFUyxNJfhMkKk1FwrNHd62KTEs.jpg",
-            "release_date": "1988-04-16",
-            "title": "O Túmulo dos Vagalumes",
+            "id": 1147416,
+            "original_language": "fr",
+            "original_title": "Miraculous World : Londres, la course contre le temps",
+            "overview": "",
+            "popularity": 1402.767,
+            "poster_path": "/imGI4R15rMl8B3wPROwkVuJDsc2.jpg",
+            "release_date": "2024-11-14",
+            "title": "Miraculous World : Londres, la course contre le temps",
             "video": false,
             "vote_average": 8.5,
-            "vote_count": 5578
+            "vote_count": 42
         },
         {
             "adult": false,
-            "backdrop_path": "/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+            "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
             "genre_ids": [
-                18,
-                80
+                35,
+                28,
+                14
             ],
-            "id": 769,
+            "id": 845781,
             "original_language": "en",
-            "original_title": "GoodFellas",
-            "overview": "A história de Henry Hill e sua vida na máfia, cobrindo seu relacionamento com sua esposa Karen e seus parceiros mafiosos Jimmy Conway e Tommy DeVito.",
-            "popularity": 76.347,
-            "poster_path": "/lanYBnyCcqkaFqz66B8PrBRCtCW.jpg",
-            "release_date": "1990-09-12",
-            "title": "Os Bons Companheiros",
+            "original_title": "Red One",
+            "overview": "Depois que o Papai Noel – codinome: Das Neves – é sequestrado, o Chefe de Segurança do Polo Norte deve se unir ao mais infame caçador de recompensas do mundo em uma missão global e cheia de ação para salvar o Natal.",
+            "popularity": 1231.712,
+            "poster_path": "/4Ttcw4l7Cb7VIPwVX08m30ICrCI.jpg",
+            "release_date": "2024-10-31",
+            "title": "Operação Natal",
             "video": false,
-            "vote_average": 8.456,
-            "vote_count": 12897
+            "vote_average": 6.8,
+            "vote_count": 333
         },
         {
             "adult": false,
-            "backdrop_path": "/7lyq8hK0MhPHpUXdnqbFvZYSfkk.jpg",
+            "backdrop_path": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878,
+                10751
+            ],
+            "id": 1184918,
+            "original_language": "en",
+            "original_title": "The Wild Robot",
+            "overview": "Um robô – unidade ROZZUM 7134, abreviadamente “Roz” – naufraga em uma ilha desabitada e deve aprender a se adaptar ao ambiente hostil, gradualmente construindo relacionamentos com os animais da ilha e se tornando o pai adotivo de um filhote de ganso órfão.",
+            "popularity": 1024.308,
+            "poster_path": "/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
+            "release_date": "2024-09-08",
+            "title": "Robô Selvagem",
+            "video": false,
+            "vote_average": 8.394,
+            "vote_count": 3399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h3fwlwHotd3JfV13HdW0mxDcxPD.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10770
+            ],
+            "id": 957119,
+            "original_language": "en",
+            "original_title": "Sidelined: The QB and Me",
+            "overview": "Dallas, uma dançarina sobrecarregada, mas obstinada, está determinada a entrar na melhor escola de dança do país — a alma mater de sua falecida mãe. No entanto, esse sonho de repente sai dos trilhos quando o astro do futebol atrevido, mas secretamente enlutado, Drayton, entra em sua vida com uma história única. Os dois conseguirão crescer em seus sonhos juntos, ou seus sonhos serão deixados de lado?",
+            "popularity": 965.907,
+            "poster_path": "/9g4bRZNMUzxk89IW3XmqbCeHcMf.jpg",
+            "release_date": "2024-11-29",
+            "title": "Sidelined: QB e Eu",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+            "genre_ids": [
+                53,
+                80,
+                9648,
+                28
+            ],
+            "id": 1252470,
+            "original_language": "hi",
+            "original_title": "सिकंदर का मुकद्दर",
+            "overview": "A procura pelo principal suspeito do roubo de um diamante vira obsessão para um policial. Até o momento em que ele finalmente consegue encarar o criminoso (e a verdade).",
+            "popularity": 966.114,
+            "poster_path": "/qJob2GI2STRpCOoCjWvcJYmXMci.jpg",
+            "release_date": "2024-11-29",
+            "title": "O Destino de Sikandar",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                36
+            ],
+            "id": 558449,
+            "original_language": "en",
+            "original_title": "Gladiator II",
+            "overview": "Anos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo. Prepare-se para uma jornada épica de coragem e vingança na sangrenta arena do Coliseu.",
+            "popularity": 951.474,
+            "poster_path": "/342bly9MqveL65TnEFzx8TTUxcL.jpg",
+            "release_date": "2024-11-05",
+            "title": "Gladiador 2",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1043
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rWs3Q9bT7zCH6t004z67UGuWUwu.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                12
+            ],
+            "id": 645757,
+            "original_language": "en",
+            "original_title": "That Christmas",
+            "overview": "A pior nevasca da história transforma o Natal da cidadezinha de Wellington-on-Sea em algo inesquecível e muda os planos de todos, inclusive do Papai Noel.",
+            "popularity": 1293.13,
+            "poster_path": "/hTGNamtAp6766t6pbkzxE6umGwe.jpg",
+            "release_date": "2024-11-27",
+            "title": "Aquele Natal",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ulX4rDlS97lbDi929PUrEi507V.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 539972,
+            "original_language": "en",
+            "original_title": "Kraven the Hunter",
+            "overview": "Sergei Kravinoff é um grande caçador, que toma um soro mágico que lhe dá habilidades sobre-humanas e uma vida mais longa.",
+            "popularity": 908.569,
+            "poster_path": "/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+            "release_date": "2024-12-11",
+            "title": "Kraven: O Caçador",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/liuBLPXvisMRo5w2JEKHXceWq5u.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 1171640,
+            "original_language": "fr",
+            "original_title": "GTMAX",
+            "overview": "O irmão dela foi recrutado por uma famosa gangue de motoqueiros. Agora, essa ex-campeã de motocross fará de tudo para salvar sua família.",
+            "popularity": 904.76,
+            "poster_path": "/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
+            "release_date": "2024-11-19",
+            "title": "GTMAX",
+            "video": false,
+            "vote_average": 6.118,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
             "genre_ids": [
                 18,
-                10749
+                10749,
+                14
             ],
-            "id": 11216,
-            "original_language": "it",
-            "original_title": "Nuovo Cinema Paradiso",
-            "overview": "Um diretor de cinema lembra como, em sua infância, ele se apaixonou pelo cinema de sua cidade e iniciou uma profunda amizade com o projetista.",
-            "popularity": 39.798,
-            "poster_path": "/kkmwHNAiCea2QGX6kgPmdDKaWyp.jpg",
-            "release_date": "1988-11-17",
-            "title": "Cinema Paradiso",
+            "id": 402431,
+            "original_language": "en",
+            "original_title": "Wicked",
+            "overview": "O longa conta a história de Elphaba (Cynthia Erivo), uma jovem incompreendida por causa de sua pele verde incomum, que ainda não descobriu seu verdadeiro poder, e de Glinda (Ariana Grande), uma jovem popular e ambiciosa que só quer saber de privilégios e ainda não conhece a sua verdadeira alma. As duas se conhecem na Universidade de Shiz, na Terra de OZ, e se tornam grandes amigas, mas suas diferenças fazem com que a vida as separe, levando-as a cumprirem seus destinos como a Bruxa Boa e a Bruxa Má do Oeste.",
+            "popularity": 842.142,
+            "poster_path": "/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
+            "release_date": "2024-11-20",
+            "title": "Wicked",
             "video": false,
-            "vote_average": 8.449,
-            "vote_count": 4382
+            "vote_average": 7.579,
+            "vote_count": 515
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 933260,
+            "original_language": "en",
+            "original_title": "The Substance",
+            "overview": "Já sonhou com uma versão melhor de si mesmo? Continuará sendo você, só que melhor em todos os sentidos. Então, você deveria experimentar este novo produto: A Substância. MUDOU A MINHA VIDA.",
+            "popularity": 839.485,
+            "poster_path": "/6L3PfQEydRzONYrhtpWtchRhOuV.jpg",
+            "release_date": "2024-09-07",
+            "title": "A Substância",
+            "video": false,
+            "vote_average": 7.248,
+            "vote_count": 2533
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2ndyL4HjM9JLMqBSgbyCM57aMWl.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1034541,
+            "original_language": "en",
+            "original_title": "Terrifier 3",
+            "overview": "O palhaço assassino Art está pronto para espalhar o caos sobre os moradores inocentes do Condado de Miles durante uma pacífica véspera de Natal.",
+            "popularity": 736.097,
+            "poster_path": "/3HeKb5H89HjzWTkVkAqomu9mek.jpg",
+            "release_date": "2024-10-09",
+            "title": "Terrifier 3",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4gQzCQqqY6fsDU3gtz45tdGztJp.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1154223,
+            "original_language": "fr",
+            "original_title": "Tigres et Hyènes",
+            "overview": "Malik, um jovem vigarista parisiense, descobre que seu padrasto Serge, um famoso assaltante de bancos, foi preso com seus comparsas. No julgamento, Iris, advogada do acusado Chérif, pede que Malik aceite participar de um assalto perigoso em troca da liberdade de Serge e de seu cliente. Malik deve convencer e reunir os antigos parceiros de Chérif para realizar o arriscado assalto a mão armada.",
+            "popularity": 674.186,
+            "poster_path": "/ajv9BJjtUendpHxnv2PDUh3wYmi.jpg",
+            "release_date": "2024-11-22",
+            "title": "Tigres e Hienas",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1FBHAQnq7Bs3djBmaNkfdVbnCUE.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1124641,
+            "original_language": "en",
+            "original_title": "Classified",
+            "overview": "Um assassino de aluguel da CIA descobre que sua divisão está fechada há anos. Agora, ele terá que descobrir quem vinha lhe dando ordens.",
+            "popularity": 476.557,
+            "poster_path": "/kPgzYyN5uSqonpTlt2q7wUBCURs.jpg",
+            "release_date": "2024-09-19",
+            "title": "Alvo Secreto",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 95
         }
     ],
-    "total_pages": 490,
-    "total_results": 9799
+    "total_pages": 257,
+    "total_results": 5127
 }

@@ -50,7 +50,7 @@ def exibir():
                 print(f"Título: {filme['title']}")#title estava com letra maiuscula assim não encontrando titulo
                 print(f"Descrição: {filme['overview']}")
                 print(f"Avaliação: {filme['vote_average']}")
-                print(f"Lançanto: {filme['release_date']}")#estava errado a escrita como relase e não release
+                print(f"Lançanto: {filme['release_date']}\n")#estava errado a escrita como relase e não release
     else:
         print(f"Arquivo {nome_arquivo} não encontrado.")
 
