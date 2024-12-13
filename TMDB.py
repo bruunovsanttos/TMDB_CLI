@@ -48,6 +48,7 @@ def exibir():
 
             for filme in filmes.get('results',[]):
                 print(f"Título: {filme['title']}")#title estava com letra maiuscula assim não encontrando titulo
+                print(f"Descrição: {filme['overview']}")
                 print(f"Avaliação: {filme['vote_average']}")
                 print(f"Lançanto: {filme['release_date']}")#estava errado a escrita como relase e não release
     else:
@@ -56,7 +57,7 @@ def exibir():
 
 def main():
     parser = argparse.ArgumentParser(description="Filmes TMDB")
-    parser.add_argument('--tipo', choices=["playing", "popular", "top", "upcoming"], required= False, help= "Tipo de filmes a serem exibidos(playing(passando), popular(mais populares), top(melhores avaliações), upcoming(vem ai)") #--tipo foi colocado para atender as especificidades do codigo
+    parser.add_argument('--tipo', choices=["now_playing", "popular", "top_rated", "upcoming"], required= False, help= "Tipo de filmes a serem exibidos(playing(passando), popular(mais populares), top(melhores avaliações), upcoming(vem ai)") #--tipo foi colocado para atender as especificidades do codigo
 
     args = parser.parse_args()
     tipo = args.tipo
