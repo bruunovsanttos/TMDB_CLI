@@ -26,9 +26,9 @@ Para avaliação da documentação da [API](https://developer.themoviedb.org/ref
 
         ``` bash    atividade-github/
     │
-    ├── TMDB.py    # Arquivo principal do projeto; contém a lógica do CLI e as funções para buscar e exibir atividades.
-    ├── Filmes.json         # Arquivo gerado automaticamente para salvar as atividades do usuário em formato JSON.
-    ├── README.md              # Documentação do projeto com detalhes sobre o funcionamento e execução.
+    ├── TMDB.py 
+    ├── Filmes.json   
+    ├── README.md  
 
 #### Descrição dos Arquivos
 * TMDB.py: O script principal que contém todo o código do projeto. É executado via linha de comando para buscar os filmes.
