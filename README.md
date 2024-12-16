@@ -36,4 +36,18 @@ Para avaliação da documentação da [API](https://developer.themoviedb.org/ref
 * README.md: Arquivo de documentação, explicando o propósito do projeto, como ele funciona, e instruções de uso.
 
 
+# Como Utilizar o Aplicativo
 
+1. Crie um clone do repositório:
+    ```bash
+        https://github.com/bruunovsanttos/TMDB_CLI
+
+2. Instale as dependências: Este projeto depende apenas das bibliotecas padrão do Python (não há dependências externas além do requests, que pode ser instalado via pip):
+    ```bash 
+        pip install requests
+3. Execute o projeto no terminal: O programa pode ser executado a partir da linha de comando, fornecendo as entradas como argumento. Exemplo:
+    ```bash
+        python TMDB.py --tipo now_playing
+4. A resposta deve ser algo parecido como:
+    ![img.png](img.png)
+    

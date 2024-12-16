@@ -18,13 +18,13 @@
             "original_language": "en",
             "original_title": "Venom: The Last Dance",
             "overview": "Eddie e Venom estão fugindo. Perseguidos pelos dois mundos, a dupla é forçada a tomar uma decisão devastadora que vai fechar as cortinas da última rodada de Venom e Eddie.",
-            "popularity": 12365.25,
+            "popularity": 9486.301,
             "poster_path": "/jQ92em8SMpu0ufGUtZNVlvxO4Qr.jpg",
             "release_date": "2024-10-22",
             "title": "Venom: A Última Rodada",
             "video": false,
-            "vote_average": 6.737,
-            "vote_count": 1373
+            "vote_average": 6.762,
+            "vote_count": 1552
         },
         {
             "adult": false,
@@ -39,13 +39,33 @@
             "original_language": "en",
             "original_title": "Moana 2",
             "overview": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
-            "popularity": 3704.062,
+            "popularity": 3980.558,
             "poster_path": "/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
             "release_date": "2024-11-21",
             "title": "Moana 2",
             "video": false,
-            "vote_average": 6.885,
-            "vote_count": 465
+            "vote_average": 6.9,
+            "vote_count": 498
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bHkn3yuOFdu5LJcq67Odofhx6cb.jpg",
+            "genre_ids": [
+                28,
+                14,
+                35
+            ],
+            "id": 845781,
+            "original_language": "en",
+            "original_title": "Red One",
+            "overview": "Depois que o Papai Noel – codinome: Das Neves – é sequestrado, o Chefe de Segurança do Polo Norte deve se unir ao mais infame caçador de recompensas do mundo em uma missão global e cheia de ação para salvar o Natal.",
+            "popularity": 3379.818,
+            "poster_path": "/zX2UeAmF8XDBJM3sZ0RS0jLQ8Gg.jpg",
+            "release_date": "2024-10-31",
+            "title": "Operação Natal",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 707
         },
         {
             "adult": false,
@@ -59,13 +79,13 @@
             "original_language": "en",
             "original_title": "Elevation",
             "overview": "Vivendo nas montanhas após o apocalipse, um pai solteiro e duas mulheres se aventuram fora de suas casas e enfrentam criaturas monstruosas para salvar a vida de uma criança.",
-            "popularity": 2623.947,
+            "popularity": 2167.591,
             "poster_path": "/8W6pH0sLPKSq8gM7qEnQiRSzWSN.jpg",
             "release_date": "2024-11-07",
             "title": "A Linha da Extinção",
             "video": false,
             "vote_average": 6.5,
-            "vote_count": 147
+            "vote_count": 163
         },
         {
             "adult": false,
@@ -79,177 +99,32 @@
             "original_language": "en",
             "original_title": "Absolution",
             "overview": "Um velho gângster ex-boxeador que trabalha para um chefe do crime de Boston recebe um diagnóstico perturbador. Apesar de uma memória vacilante, ele tenta corrigir os pecados do seu passado e reconectar-se com seus filhos distantes. Ele está determinado a deixar um legado positivo para seu neto, mas o submundo do crime não o deixa e ele vai tomar o controle.",
-            "popularity": 1754.884,
+            "popularity": 1732.435,
             "poster_path": "/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg",
             "release_date": "2024-10-31",
             "title": "Absolution",
             "video": false,
             "vote_average": 6.1,
-            "vote_count": 128
+            "vote_count": 133
         },
         {
             "adult": false,
-            "backdrop_path": "/m2hs6YPVrzjvRC21SE9BeXtgqFW.jpg",
+            "backdrop_path": "/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
             "genre_ids": [
-                16,
-                9648,
-                878,
-                28
-            ],
-            "id": 1299652,
-            "original_language": "en",
-            "original_title": "Watchmen: Chapter II",
-            "overview": "Suspeitos dos eventos que enredam seus antigos colegas, Nite Owl e Silk Spectre são estimulados a sair da aposentadoria para investigar. Enquanto eles lutam com ética pessoal, demônios internos e uma sociedade voltada contra eles, eles correm contra o relógio para descobrir uma conspiração profunda que pode desencadear uma guerra nuclear global.",
-            "popularity": 1484.544,
-            "poster_path": "/biFwlSoLFv7hO1yg6IrieoYLpYr.jpg",
-            "release_date": "2024-11-25",
-            "title": "Watchmen: Capítulo 2",
-            "video": false,
-            "vote_average": 7.6,
-            "vote_count": 46
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/evFChfYeD2LqobEJf8iQsrYcGTw.jpg",
-            "genre_ids": [
-                28,
-                80,
+                27,
                 53
             ],
-            "id": 1182387,
+            "id": 1138194,
             "original_language": "en",
-            "original_title": "Armor",
-            "overview": "Um pai e um filho que trabalham como guardas de segurança de uma empresa de caminhões blindados são atacados por uma equipe de ladrões profissionais durante um transporte de valores. Eles ficam presos numa ponte isolada e precisam bolar um plano para escapar e garantir sua sobrevivência.",
-            "popularity": 1666.034,
-            "poster_path": "/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",
-            "release_date": "2024-10-30",
-            "title": "Armor",
-            "video": false,
-            "vote_average": 5.6,
-            "vote_count": 64
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/cBTwQKMd7Vn6rGTGBtoFLIfj7uM.jpg",
-            "genre_ids": [
-                16,
-                12,
-                28,
-                14
-            ],
-            "id": 1147416,
-            "original_language": "fr",
-            "original_title": "Miraculous World : Londres, la course contre le temps",
-            "overview": "",
-            "popularity": 1402.767,
-            "poster_path": "/imGI4R15rMl8B3wPROwkVuJDsc2.jpg",
-            "release_date": "2024-11-14",
-            "title": "Miraculous World : Londres, la course contre le temps",
-            "video": false,
-            "vote_average": 8.5,
-            "vote_count": 42
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
-            "genre_ids": [
-                35,
-                28,
-                14
-            ],
-            "id": 845781,
-            "original_language": "en",
-            "original_title": "Red One",
-            "overview": "Depois que o Papai Noel – codinome: Das Neves – é sequestrado, o Chefe de Segurança do Polo Norte deve se unir ao mais infame caçador de recompensas do mundo em uma missão global e cheia de ação para salvar o Natal.",
-            "popularity": 1231.712,
-            "poster_path": "/4Ttcw4l7Cb7VIPwVX08m30ICrCI.jpg",
+            "original_title": "Heretic",
+            "overview": "Duas jovens missionárias são forçadas a provar sua fé quando batem na porta errada e são recebidas pelo diabólico Sr. Reed, ficando presas em seu jogo mortal de gato e rato.",
+            "popularity": 1511.671,
+            "poster_path": "/j5e2YS1PRUVC1YgSool0JJyNLxJ.jpg",
             "release_date": "2024-10-31",
-            "title": "Operação Natal",
+            "title": "Herege",
             "video": false,
-            "vote_average": 6.8,
-            "vote_count": 333
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
-            "genre_ids": [
-                16,
-                28,
-                878,
-                10751
-            ],
-            "id": 1184918,
-            "original_language": "en",
-            "original_title": "The Wild Robot",
-            "overview": "Um robô – unidade ROZZUM 7134, abreviadamente “Roz” – naufraga em uma ilha desabitada e deve aprender a se adaptar ao ambiente hostil, gradualmente construindo relacionamentos com os animais da ilha e se tornando o pai adotivo de um filhote de ganso órfão.",
-            "popularity": 1024.308,
-            "poster_path": "/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
-            "release_date": "2024-09-08",
-            "title": "Robô Selvagem",
-            "video": false,
-            "vote_average": 8.394,
-            "vote_count": 3399
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/h3fwlwHotd3JfV13HdW0mxDcxPD.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                10770
-            ],
-            "id": 957119,
-            "original_language": "en",
-            "original_title": "Sidelined: The QB and Me",
-            "overview": "Dallas, uma dançarina sobrecarregada, mas obstinada, está determinada a entrar na melhor escola de dança do país — a alma mater de sua falecida mãe. No entanto, esse sonho de repente sai dos trilhos quando o astro do futebol atrevido, mas secretamente enlutado, Drayton, entra em sua vida com uma história única. Os dois conseguirão crescer em seus sonhos juntos, ou seus sonhos serão deixados de lado?",
-            "popularity": 965.907,
-            "poster_path": "/9g4bRZNMUzxk89IW3XmqbCeHcMf.jpg",
-            "release_date": "2024-11-29",
-            "title": "Sidelined: QB e Eu",
-            "video": false,
-            "vote_average": 6.4,
-            "vote_count": 65
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
-            "genre_ids": [
-                53,
-                80,
-                9648,
-                28
-            ],
-            "id": 1252470,
-            "original_language": "hi",
-            "original_title": "सिकंदर का मुकद्दर",
-            "overview": "A procura pelo principal suspeito do roubo de um diamante vira obsessão para um policial. Até o momento em que ele finalmente consegue encarar o criminoso (e a verdade).",
-            "popularity": 966.114,
-            "poster_path": "/qJob2GI2STRpCOoCjWvcJYmXMci.jpg",
-            "release_date": "2024-11-29",
-            "title": "O Destino de Sikandar",
-            "video": false,
-            "vote_average": 5.4,
-            "vote_count": 7
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
-            "genre_ids": [
-                28,
-                12,
-                36
-            ],
-            "id": 558449,
-            "original_language": "en",
-            "original_title": "Gladiator II",
-            "overview": "Anos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo. Prepare-se para uma jornada épica de coragem e vingança na sangrenta arena do Coliseu.",
-            "popularity": 951.474,
-            "poster_path": "/342bly9MqveL65TnEFzx8TTUxcL.jpg",
-            "release_date": "2024-11-05",
-            "title": "Gladiador 2",
-            "video": false,
-            "vote_average": 6.7,
-            "vote_count": 1043
+            "vote_average": 7.2,
+            "vote_count": 329
         },
         {
             "adult": false,
@@ -265,17 +140,37 @@
             "original_language": "en",
             "original_title": "That Christmas",
             "overview": "A pior nevasca da história transforma o Natal da cidadezinha de Wellington-on-Sea em algo inesquecível e muda os planos de todos, inclusive do Papai Noel.",
-            "popularity": 1293.13,
+            "popularity": 1480.413,
             "poster_path": "/hTGNamtAp6766t6pbkzxE6umGwe.jpg",
             "release_date": "2024-11-27",
             "title": "Aquele Natal",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 98
+            "vote_average": 7.496,
+            "vote_count": 132
         },
         {
             "adult": false,
-            "backdrop_path": "/1ulX4rDlS97lbDi929PUrEi507V.jpg",
+            "backdrop_path": "/evFChfYeD2LqobEJf8iQsrYcGTw.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 1182387,
+            "original_language": "en",
+            "original_title": "Armor",
+            "overview": "Um pai e um filho que trabalham como guardas de segurança de uma empresa de caminhões blindados são atacados por uma equipe de ladrões profissionais durante um transporte de valores. Eles ficam presos numa ponte isolada e precisam bolar um plano para escapar e garantir sua sobrevivência.",
+            "popularity": 1356.595,
+            "poster_path": "/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",
+            "release_date": "2024-10-30",
+            "title": "Armor",
+            "video": false,
+            "vote_average": 5.507,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
             "genre_ids": [
                 28,
                 12,
@@ -285,33 +180,174 @@
             "original_language": "en",
             "original_title": "Kraven the Hunter",
             "overview": "Sergei Kravinoff é um grande caçador, que toma um soro mágico que lhe dá habilidades sobre-humanas e uma vida mais longa.",
-            "popularity": 908.569,
+            "popularity": 1267.538,
             "poster_path": "/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
             "release_date": "2024-12-11",
             "title": "Kraven: O Caçador",
             "video": false,
-            "vote_average": 6.0,
-            "vote_count": 34
+            "vote_average": 5.6,
+            "vote_count": 80
         },
         {
             "adult": false,
-            "backdrop_path": "/liuBLPXvisMRo5w2JEKHXceWq5u.jpg",
+            "backdrop_path": "/cBTwQKMd7Vn6rGTGBtoFLIfj7uM.jpg",
+            "genre_ids": [
+                16,
+                12,
+                28,
+                14
+            ],
+            "id": 1147416,
+            "original_language": "fr",
+            "original_title": "Miraculous World : Londres, la course contre le temps",
+            "overview": "",
+            "popularity": 1219.89,
+            "poster_path": "/imGI4R15rMl8B3wPROwkVuJDsc2.jpg",
+            "release_date": "2024-11-14",
+            "title": "Miraculous World : Londres, la course contre le temps",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m2hs6YPVrzjvRC21SE9BeXtgqFW.jpg",
+            "genre_ids": [
+                16,
+                9648,
+                878,
+                28
+            ],
+            "id": 1299652,
+            "original_language": "en",
+            "original_title": "Watchmen: Chapter II",
+            "overview": "Suspeitos dos eventos que enredam seus antigos colegas, Nite Owl e Silk Spectre são estimulados a sair da aposentadoria para investigar. Enquanto eles lutam com ética pessoal, demônios internos e uma sociedade voltada contra eles, eles correm contra o relógio para descobrir uma conspiração profunda que pode desencadear uma guerra nuclear global.",
+            "popularity": 1226.19,
+            "poster_path": "/biFwlSoLFv7hO1yg6IrieoYLpYr.jpg",
+            "release_date": "2024-11-25",
+            "title": "Watchmen: Capítulo 2",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fyeyxFzZ3qYqDsaMVYF6sq3pp2n.jpg",
             "genre_ids": [
                 28,
-                80,
-                18
+                12,
+                53
             ],
-            "id": 1171640,
-            "original_language": "fr",
-            "original_title": "GTMAX",
-            "overview": "O irmão dela foi recrutado por uma famosa gangue de motoqueiros. Agora, essa ex-campeã de motocross fará de tudo para salvar sua família.",
-            "popularity": 904.76,
-            "poster_path": "/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
-            "release_date": "2024-11-19",
-            "title": "GTMAX",
+            "id": 1167271,
+            "original_language": "en",
+            "original_title": "Weekend in Taipei",
+            "overview": "Um ex-agente da DEA e uma ex-agente secreta revivem seu romance durante um fatídico fim de semana em Taipei, sem saber das perigosas consequências de seu passado.",
+            "popularity": 1206.516,
+            "poster_path": "/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg",
+            "release_date": "2024-09-19",
+            "title": "Weekend in Taipei",
             "video": false,
-            "vote_average": 6.118,
-            "vote_count": 72
+            "vote_average": 6.2,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                36
+            ],
+            "id": 558449,
+            "original_language": "en",
+            "original_title": "Gladiator II",
+            "overview": "Anos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo. Prepare-se para uma jornada épica de coragem e vingança na sangrenta arena do Coliseu.",
+            "popularity": 1105.753,
+            "poster_path": "/342bly9MqveL65TnEFzx8TTUxcL.jpg",
+            "release_date": "2024-11-05",
+            "title": "Gladiador 2",
+            "video": false,
+            "vote_average": 6.692,
+            "vote_count": 1094
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eK8HiCLv4zo6iZ0NbjZnmD9LZkd.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878,
+                10751
+            ],
+            "id": 1184918,
+            "original_language": "en",
+            "original_title": "The Wild Robot",
+            "overview": "Um robô – unidade ROZZUM 7134, abreviadamente “Roz” – naufraga em uma ilha desabitada e deve aprender a se adaptar ao ambiente hostil, gradualmente construindo relacionamentos com os animais da ilha e se tornando o pai adotivo de um filhote de ganso órfão.",
+            "popularity": 1177.7,
+            "poster_path": "/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
+            "release_date": "2024-09-08",
+            "title": "Robô Selvagem",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 3445
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t98L9uphqBSNn2Mkvdm3xSFCQyi.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 933260,
+            "original_language": "en",
+            "original_title": "The Substance",
+            "overview": "Já sonhou com uma versão melhor de si mesmo? Continuará sendo você, só que melhor em todos os sentidos. Então, você deveria experimentar este novo produto: A Substância. MUDOU A MINHA VIDA.",
+            "popularity": 927.484,
+            "poster_path": "/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+            "release_date": "2024-09-07",
+            "title": "A Substância",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 2593
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h3fwlwHotd3JfV13HdW0mxDcxPD.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                10770
+            ],
+            "id": 957119,
+            "original_language": "en",
+            "original_title": "Sidelined: The QB and Me",
+            "overview": "Dallas, uma dançarina sobrecarregada, mas obstinada, está determinada a entrar na melhor escola de dança do país — a alma mater de sua falecida mãe. No entanto, esse sonho de repente sai dos trilhos quando o astro do futebol atrevido, mas secretamente enlutado, Drayton, entra em sua vida com uma história única. Os dois conseguirão crescer em seus sonhos juntos, ou seus sonhos serão deixados de lado?",
+            "popularity": 754.205,
+            "poster_path": "/9g4bRZNMUzxk89IW3XmqbCeHcMf.jpg",
+            "release_date": "2024-11-29",
+            "title": "Sidelined: QB e Eu",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1034541,
+            "original_language": "en",
+            "original_title": "Terrifier 3",
+            "overview": "O palhaço assassino Art está pronto para espalhar o caos sobre os moradores inocentes do Condado de Miles durante uma pacífica véspera de Natal.",
+            "popularity": 829.481,
+            "poster_path": "/3HeKb5H89HjzWTkVkAqomu9mek.jpg",
+            "release_date": "2024-10-09",
+            "title": "Terrifier 3",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1228
         },
         {
             "adult": false,
@@ -325,91 +361,56 @@
             "original_language": "en",
             "original_title": "Wicked",
             "overview": "O longa conta a história de Elphaba (Cynthia Erivo), uma jovem incompreendida por causa de sua pele verde incomum, que ainda não descobriu seu verdadeiro poder, e de Glinda (Ariana Grande), uma jovem popular e ambiciosa que só quer saber de privilégios e ainda não conhece a sua verdadeira alma. As duas se conhecem na Universidade de Shiz, na Terra de OZ, e se tornam grandes amigas, mas suas diferenças fazem com que a vida as separe, levando-as a cumprirem seus destinos como a Bruxa Boa e a Bruxa Má do Oeste.",
-            "popularity": 842.142,
+            "popularity": 772.138,
             "poster_path": "/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
             "release_date": "2024-11-20",
             "title": "Wicked",
             "video": false,
-            "vote_average": 7.579,
-            "vote_count": 515
+            "vote_average": 7.6,
+            "vote_count": 544
         },
         {
             "adult": false,
-            "backdrop_path": "/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+            "backdrop_path": "/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
             "genre_ids": [
-                27,
-                878
+                53,
+                80,
+                9648,
+                28
             ],
-            "id": 933260,
-            "original_language": "en",
-            "original_title": "The Substance",
-            "overview": "Já sonhou com uma versão melhor de si mesmo? Continuará sendo você, só que melhor em todos os sentidos. Então, você deveria experimentar este novo produto: A Substância. MUDOU A MINHA VIDA.",
-            "popularity": 839.485,
-            "poster_path": "/6L3PfQEydRzONYrhtpWtchRhOuV.jpg",
-            "release_date": "2024-09-07",
-            "title": "A Substância",
+            "id": 1252470,
+            "original_language": "hi",
+            "original_title": "सिकंदर का मुकद्दर",
+            "overview": "A procura pelo principal suspeito do roubo de um diamante vira obsessão para um policial. Até o momento em que ele finalmente consegue encarar o criminoso (e a verdade).",
+            "popularity": 752.13,
+            "poster_path": "/qJob2GI2STRpCOoCjWvcJYmXMci.jpg",
+            "release_date": "2024-11-29",
+            "title": "O Destino de Sikandar",
             "video": false,
-            "vote_average": 7.248,
-            "vote_count": 2533
+            "vote_average": 6.0,
+            "vote_count": 10
         },
         {
             "adult": false,
-            "backdrop_path": "/2ndyL4HjM9JLMqBSgbyCM57aMWl.jpg",
-            "genre_ids": [
-                27,
-                53
-            ],
-            "id": 1034541,
-            "original_language": "en",
-            "original_title": "Terrifier 3",
-            "overview": "O palhaço assassino Art está pronto para espalhar o caos sobre os moradores inocentes do Condado de Miles durante uma pacífica véspera de Natal.",
-            "popularity": 736.097,
-            "poster_path": "/3HeKb5H89HjzWTkVkAqomu9mek.jpg",
-            "release_date": "2024-10-09",
-            "title": "Terrifier 3",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 1210
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4gQzCQqqY6fsDU3gtz45tdGztJp.jpg",
+            "backdrop_path": "/liuBLPXvisMRo5w2JEKHXceWq5u.jpg",
             "genre_ids": [
                 28,
-                53
+                80,
+                18
             ],
-            "id": 1154223,
+            "id": 1171640,
             "original_language": "fr",
-            "original_title": "Tigres et Hyènes",
-            "overview": "Malik, um jovem vigarista parisiense, descobre que seu padrasto Serge, um famoso assaltante de bancos, foi preso com seus comparsas. No julgamento, Iris, advogada do acusado Chérif, pede que Malik aceite participar de um assalto perigoso em troca da liberdade de Serge e de seu cliente. Malik deve convencer e reunir os antigos parceiros de Chérif para realizar o arriscado assalto a mão armada.",
-            "popularity": 674.186,
-            "poster_path": "/ajv9BJjtUendpHxnv2PDUh3wYmi.jpg",
-            "release_date": "2024-11-22",
-            "title": "Tigres e Hienas",
+            "original_title": "GTMAX",
+            "overview": "O irmão dela foi recrutado por uma famosa gangue de motoqueiros. Agora, essa ex-campeã de motocross fará de tudo para salvar sua família.",
+            "popularity": 767.827,
+            "poster_path": "/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
+            "release_date": "2024-11-19",
+            "title": "GTMAX",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 30
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1FBHAQnq7Bs3djBmaNkfdVbnCUE.jpg",
-            "genre_ids": [
-                28,
-                53
-            ],
-            "id": 1124641,
-            "original_language": "en",
-            "original_title": "Classified",
-            "overview": "Um assassino de aluguel da CIA descobre que sua divisão está fechada há anos. Agora, ele terá que descobrir quem vinha lhe dando ordens.",
-            "popularity": 476.557,
-            "poster_path": "/kPgzYyN5uSqonpTlt2q7wUBCURs.jpg",
-            "release_date": "2024-09-19",
-            "title": "Alvo Secreto",
-            "video": false,
-            "vote_average": 5.9,
-            "vote_count": 95
+            "vote_average": 6.1,
+            "vote_count": 74
         }
     ],
-    "total_pages": 257,
-    "total_results": 5127
+    "total_pages": 268,
+    "total_results": 5343
 }
