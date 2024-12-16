@@ -57,7 +57,7 @@ def exibir():
 
 def main():
     parser = argparse.ArgumentParser(description="Filmes TMDB")
-    parser.add_argument('--tipo', choices=["now_playing", "popular", "top_rated", "upcoming"], required= False, help= "Tipo de filmes a serem exibidos(playing(passando), popular(mais populares), top(melhores avaliações), upcoming(vem ai)") #--tipo foi colocado para atender as especificidades do codigo
+    parser.add_argument('--tipo', choices=["now_playing", "popular", "top_rated", "upcoming"], required= False, help= "Tipo de filmes a serem exibidos(now_playing(passando), popular(mais populares), top_rated(melhores avaliações), upcoming(vem ai)") #--tipo foi colocado para atender as especificidades do codigo
 
     args = parser.parse_args()
     tipo = args.tipo
