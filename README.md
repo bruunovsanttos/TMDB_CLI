@@ -1,10 +1,11 @@
-# TMDbCLI
+# The Movie Data Base CLI 🎥
 Este projeto foi selecionado na [Roadmap.sh](https://roadmap.sh/projects/tmdb-cli) para integração de API para o site [The Movie Data Base (TMDB)](https://www.themoviedb.org/).  
 Neste projeto foi necessário colocar as habilidades de integração com API e leituras de arquivo JSON para receber as repostas do the movie data base para saber os filmes em cartaz, os proximos lançamentos, os filmes mais bem avaliados e os filmes que estão em exibição. 
 
-# Requisitos de Projeto
+# Requisitos de Projeto 📝
 
-O aplicativo deve rodar a partir da linha de comando e ser capaz de puxar e mostrar os filmes populares, mais bem avaliados, futuros e em exibição na API do TMDB. O usuário deve ser capaz de especificar o tipo de filme que deseja ver passando um argumento de linha de comando para a ferramenta CLI.  
+O aplicativo deve rodar a partir da linha de comando e ser capaz de puxar e mostrar os filmes populares, mais bem avaliados, futuros e em exibição na API do TMDB.  
+O usuário deve ser capaz de especificar o tipo de filme que deseja ver passando um argumento de linha de comando para a ferramenta CLI.  
 
 # Ferramentas do Projeto 🔨🔧  
 ### Linguagem de programação
@@ -19,10 +20,21 @@ O aplicativo deve rodar a partir da linha de comando e ser capaz de puxar e most
 
 [Requests](https://docs.python.org/pt-br/3/library/http.client.html): Para fazer as requisições HTTP para a API do TMDB e obter os dados dos filmes.
 
-## Documentação Api
-Para avaliação da documentação da [API](https://developer.themoviedb.org/reference/movie-now-playing-list) do The Movie Data Base
+## Documentação Api 📕
+Para avaliação da documentação da [API](https://developer.themoviedb.org/reference/movie-now-playing-list) do The Movie Data Base  
 
-## Estrutura do Projeto 
+## Comandos 
+Estes são os comandos para trabalhar com a cli de forma correta:
+
+| Comandos              | Descrição                                              |
+|-----------------------|--------------------------------------------------------|
+| ```'now_playing'```  ⏯ | Comando para verificação de filmes passando atualmente |
+| ```'popular'```   🆒    | Filmes populares na plataforma                         |
+| ```'top_rated'``` ⭐️  | Os filmes mais bem avaliados                           |
+| ```'upcoming'```   🔜   | Filmes a serem lançados                                |
+
+
+## Estrutura do Projeto 🧱
 
         ``` bash    atividade-github/
     │
